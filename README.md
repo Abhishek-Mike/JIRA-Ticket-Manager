@@ -4,6 +4,6 @@ Available at:
 
 https://abhishek-mike.github.io/JIRA-Ticket-Manager/
 
-![alt text](https://github.com/[Abhishek-Mike]/[JIRA-Ticket-Manager]/blob/[branch]/screenshot.jpg?raw=true)
+
 
 
